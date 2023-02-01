@@ -1,0 +1,19 @@
+{
+  "name": "mini-bam-template-node",
+  "version": "1.0.0",
+  "description": "mini bam template for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobq/mini-bam-template-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobq/mini-bam-template-node/issues"
+  },
+  "homepage": "https://github.com/fernandobq/mini-bam-template-node#readme"
+}
